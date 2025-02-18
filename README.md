@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I pray to myself,for myself.
 <!--
 **zhenguren/zhenguren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
