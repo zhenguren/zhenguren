@@ -1,5 +1,6 @@
 ## Hi there 👋
 I pray to myself,for myself.
+从cs小白逆袭成为大佬的故事！
 <!--
 **zhenguren/zhenguren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
